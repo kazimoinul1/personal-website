@@ -3,7 +3,6 @@ body{
     font-family: 'Comfortaa', cursive;
 }
 .top-header{
-    border: 5px solid lightgreen;
     height: 900px;
     background-image: url(header-bg.png);
     background-repeat: no-repeat;
@@ -59,9 +58,8 @@ p{
     font-weight: 900;
 }
 .middle-part{
-    border: 5px solid lightgreen;
     height: 1000px;
-    background-image: url(header-bg.png);
+    background-image: url(biography-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -82,7 +80,6 @@ p{
     height: 800px;
 }
 .latestwork-area{
-    border: 5px solid lightgreen;
     height: 700px;
     background-image: url(latest-work-bg.png);
     background-repeat: no-repeat;
@@ -97,7 +94,6 @@ p{
     margin-top: 40px;
 }
 .contact-section {
-    border: 5px solid lightgreen;
     height: 800px;
     background-image: url(footer-bg.png);
     background-position: center;
